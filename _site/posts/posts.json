@@ -27,10 +27,13 @@
       }
     ],
     "date": "2021-04-19",
-    "categories": [],
+    "categories": [
+      "administrative",
+      "charts"
+    ],
     "contents": "\nSydney, AustraliaSydney, AustraliaSan Diego, CaliforniaSan Diego, CaliforniaMineral Bluff, Georgia\n\n\n",
     "preview": {},
-    "last_modified": "2021-04-19T19:53:03-04:00",
+    "last_modified": "2021-04-20T19:26:23-04:00",
     "input_file": {}
   },
   {
