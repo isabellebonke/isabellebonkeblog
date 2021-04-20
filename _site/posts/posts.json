@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/2021-04-19-environmental-justice-video-post/",
+    "title": "Environmental Justice Video Post",
+    "description": "This environmental justice-themed video is a project I completed for my senior capstone course. It is focused on the topic of CSOs, or combined sewer overflows and how they pollute the Potomac River and affect the DMV population.",
+    "author": [
+      {
+        "name": "Isabelle Bonke",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [],
+    "contents": "\nhttps://youtu.be/NojxS_Rzp7g\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-19T19:54:10-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-19-photography-post/",
+    "title": "Photography Post",
+    "description": "In my free time, I enjoy photography. These are some of my favorite photos that I have taken of landscapes during my time abroad and during quarantine in March 2020.",
+    "author": [
+      {
+        "name": "Isabelle Bonke",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [],
+    "contents": "\nSydney, AustraliaSydney, AustraliaSan Diego, CaliforniaSan Diego, CaliforniaMineral Bluff, Georgia\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-19T19:53:03-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-19T19:46:28-04:00",
+    "input_file": {}
+  }
+]

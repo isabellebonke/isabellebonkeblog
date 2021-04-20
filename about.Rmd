@@ -1,0 +1,9 @@
+---
+title: "About Me"
+description: |
+  I'm Isabelle and I'm from San Diego, California. I'm a senior at GWU, majoring in Journalism and Mass Communication and minoring in Criminal Justice. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

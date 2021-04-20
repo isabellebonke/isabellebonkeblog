@@ -1,0 +1,18 @@
+---
+title: "Environmental Justice Video Post"
+description: |
+  This environmental justice-themed video is a project I completed for my senior capstone course. It is focused on the topic of CSOs, or combined sewer overflows and how they pollute the Potomac River and affect the DMV population.
+author:
+  - name: Isabelle Bonke
+    url: https://example.com/norajones
+date: 04-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://youtu.be/NojxS_Rzp7g>
