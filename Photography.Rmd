@@ -1,0 +1,30 @@
+---
+title: "Photography"
+description: |
+  Here is a sample of my photography work. 
+author:
+  - name: Isabelle Bonke
+    url: https://www.google.com
+    affiliation: The George Washington University
+    affiliation_url: https://www.gwu.edu
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/DSC_0399.JPG)
+
+![](images/DSC_0411.jpg)
+
+![](images/DSC_1069.JPG)
+
+![](images/DSC_1117.JPG)
+
+![](images/DSC_1121.JPG)
+
+![](images/DSC_1426.JPG)
+
+![](images/IMG_8122.jpg)

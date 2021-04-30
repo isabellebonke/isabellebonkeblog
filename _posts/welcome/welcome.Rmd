@@ -1,12 +1,12 @@
 ---
-title: "Welcome to Isabelle's Blog"
+title: "Welcome!"
 description: |
-  
+  Welcome to Isabelle's Blog
 author:
   - name: Isabelle Bonke
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+    url: https://www.google.com
+    affiliation: The George Washington University
+    affiliation_url: https://www.gwu.edu/ 
 date: 04-19-2021
 output:
   distill::distill_article:

@@ -6,14 +6,112 @@
       "description": "I'm Isabelle and I'm from San Diego, California. I'm a senior at GWU, majoring in Journalism and Mass Communication and minoring in Criminal Justice. ",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-04-20T19:27:15-04:00"
+      "last_modified": "2021-04-29T20:04:20-04:00"
+    },
+    {
+      "path": "Experience.html",
+      "title": "Experience",
+      "description": "Here is a list of my work experience.\n",
+      "author": [
+        {
+          "name": "Isabelle Bonke",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nWork Experience\nHebrew Free Loan of San Diego - Social Media Intern\nResponsibilities:\nManaging day-to-day posting on social accounts and scheduling posts via Hootsuite (Facebook, LinkedIn, Instagram)\nDeveloping brand creative and awareness through designing graphics for all social accounts\nMonitoring account analytics for all social accounts including follower growth and engagement; increased Instagram following by 20% over a 3-week period\nWriting copy for social media posts\nStrategizing overall page aesthetics to lead to successful content development\nIdlehour Vineyard - Social Media Manager (freelance)\nResponsibilities:\nDeveloping new Instagram account for Idlehour\nOverseeing photography and curating images for social media\nInterContinental New York Barclay - Sales & Marketing Intern\nResponsibilities:\nAssistant to Director of Marketing\nCollaborated with team to develop high impact digital marketing strategies and campaigns\nWrote copy and created graphics for weekly/monthly specials and promotions\nAssisted with brand photography\nManaged expense reports, daily tasks, and created PowerPoint presentations for executive meetings\n& Other Stories - Sales Ambassador\nResponsibilities:\nWorked with fashion and management teams to drive overall sales goals\nCommunicated with and assisted customers with returns, purchasing, in-store needs\nPlanned and organized store layouts and processed early deliveries to maximize store efficiency\n\n\n\n",
+      "last_modified": "2021-04-29T20:04:22-04:00"
+    },
+    {
+      "path": "Home.html",
+      "title": "Home",
+      "description": "Welcome to my website!\n",
+      "author": [
+        {
+          "name": "Isabelle Bonke",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n\n",
+      "last_modified": "2021-04-29T20:04:23-04:00"
     },
     {
       "path": "index.html",
       "title": "Isabelle's Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-04-20T19:27:16-04:00"
+      "last_modified": "2021-04-29T20:04:25-04:00"
+    },
+    {
+      "path": "Photography.html",
+      "title": "Photography",
+      "description": "Here is a sample of my photography work. \n",
+      "author": [
+        {
+          "name": "Isabelle Bonke",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-04-29T20:04:26-04:00"
+    },
+    {
+      "path": "Podcast.html",
+      "title": "Podcast",
+      "description": "Here is a link to the class website that I helped create in my Journalism Capstone Course at GWU. I created a politics and a social justice podcast. The politics podcast is called \"Capital Current - Unpacking QAnon\" and my social justice podcast is called \"Capital Current - Unpacking Gentrification\"\n",
+      "author": [
+        {
+          "name": "Isabelle Bonke",
+          "url": "https://www.google.come"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nhttps://2021journworkshop.wixsite.com/website/politics-podcasts\nhttps://2021journworkshop.wixsite.com/website/social-justice-podcasts\n\n\n\n",
+      "last_modified": "2021-04-29T20:04:27-04:00"
+    },
+    {
+      "path": "Skills.html",
+      "title": "Skills",
+      "description": "Here is a list of my skills.\n",
+      "author": [
+        {
+          "name": "Isabelle Bonke",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nMy skills include:\nMicrosoft Office Suite\nAdobe Creative Cloud (Spark, Photoshop, Illustrator, Audition, Premiere Pro)\nHootsuite\nCanva\nContent Management\nBrand Development\nMarketing Strategy\n\n\n\n",
+      "last_modified": "2021-04-29T20:04:28-04:00"
+    },
+    {
+      "path": "Video.html",
+      "title": "Video",
+      "description": "This is a video project I created in my senior capstone Journalism course. The video is about CSOs and their harm to the Potomac River and surrounding populations. \n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nhttps://youtu.be/NojxS_Rzp7g\n\n\n\n",
+      "last_modified": "2021-04-29T20:04:30-04:00"
+    },
+    {
+      "path": "Writing.html",
+      "title": "Writing",
+      "description": "This is a writing piece I collaborated on for a social media class while I was studying abroad in Sydney, Australia. \n",
+      "author": [
+        {
+          "name": "Isabelle Bonke",
+          "url": "https://www.google.com"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nhttps://afed9ca6-1a90-4a9a-9324-95c6295a083c.filesusr.com/ugd/e06286_50d435762fd7464ab5970157397aa697.pdf\n\n\n\n",
+      "last_modified": "2021-04-29T20:04:31-04:00"
     }
   ],
   "collections": ["posts/posts.json"]

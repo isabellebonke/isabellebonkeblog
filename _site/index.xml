@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Isabelle's Blog</title>
+    <link>https://isabelleblogreportinginthedigitalage.netlify.app/</link>
+    <atom:link href="https://isabelleblogreportinginthedigitalage.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>My Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Environmental Justice Video Post</title>
+      <dc:creator>Isabelle Bonke</dc:creator>
+      <link>https://isabelleblogreportinginthedigitalage.netlify.app/posts/2021-04-19-environmental-justice-video-post</link>
+      <description>This environmental justice-themed video is a project I completed for my senior capstone course. It is focused on the topic of CSOs, or combined sewer overflows and how they pollute the Potomac River and affect the DMV population.</description>
+      <guid>https://isabelleblogreportinginthedigitalage.netlify.app/posts/2021-04-19-environmental-justice-video-post</guid>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photography Post</title>
+      <dc:creator>Isabelle Bonke</dc:creator>
+      <link>https://isabelleblogreportinginthedigitalage.netlify.app/posts/2021-04-19-photography-post</link>
+      <description>In my free time, I enjoy photography. These are some of my favorite photos that I have taken of landscapes during my time abroad and during quarantine in March 2020.</description>
+      <guid>https://isabelleblogreportinginthedigitalage.netlify.app/posts/2021-04-19-photography-post</guid>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome!</title>
+      <dc:creator>Isabelle Bonke</dc:creator>
+      <link>https://isabelleblogreportinginthedigitalage.netlify.app/posts/welcome</link>
+      <description>Welcome to Isabelle's Blog</description>
+      <guid>https://isabelleblogreportinginthedigitalage.netlify.app/posts/welcome</guid>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

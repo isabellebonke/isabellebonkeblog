@@ -1,0 +1,64 @@
+---
+title: "Experience"
+description: |
+  Here is a list of my work experience.
+author:
+  - name: Isabelle Bonke
+    url: https://www.google.com
+    affiliation: The George Washington University
+    affiliation_url: https://www.gwu.edu
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Work Experience
+
+**Hebrew Free Loan of San Diego - Social Media Intern**
+
+Responsibilities:
+
+-   Managing day-to-day posting on social accounts and scheduling posts via Hootsuite (Facebook, LinkedIn, Instagram)
+
+-   Developing brand creative and awareness through designing graphics for all social accounts
+
+-   Monitoring account analytics for all social accounts including follower growth and engagement; increased Instagram following by 20% over a 3-week period
+
+-   Writing copy for social media posts
+
+-   Strategizing overall page aesthetics to lead to successful content development
+
+**Idlehour Vineyard - Social Media Manager (freelance)**
+
+Responsibilities:
+
+-   Developing new Instagram account for Idlehour
+
+-   Overseeing photography and curating images for social media
+
+**InterContinental New York Barclay - Sales & Marketing Intern**
+
+Responsibilities:
+
+-   Assistant to Director of Marketing
+
+-   Collaborated with team to develop high impact digital marketing strategies and campaigns
+
+-   Wrote copy and created graphics for weekly/monthly specials and promotions
+
+-   Assisted with brand photography
+
+-   Managed expense reports, daily tasks, and created PowerPoint presentations for executive meetings
+
+**& Other Stories - Sales Ambassador**
+
+Responsibilities:
+
+-   Worked with fashion and management teams to drive overall sales goals
+
+-   Communicated with and assisted customers with returns, purchasing, in-store needs
+
+-   Planned and organized store layouts and processed early deliveries to maximize store efficiency

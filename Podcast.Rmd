@@ -1,0 +1,20 @@
+---
+title: "Podcast"
+description: |
+  Here is a link to the class website that I helped create in my Journalism Capstone Course at GWU. I created a politics and a social justice podcast. The politics podcast is called "Capital Current - Unpacking QAnon" and my social justice podcast is called "Capital Current - Unpacking Gentrification"
+author:
+  - name: Isabelle Bonke 
+    url: https://www.google.come
+    affiliation: The George Washington University
+    affiliation_url: https://www.gwu.edu
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://2021journworkshop.wixsite.com/website/politics-podcasts>
+
+<https://2021journworkshop.wixsite.com/website/social-justice-podcasts>

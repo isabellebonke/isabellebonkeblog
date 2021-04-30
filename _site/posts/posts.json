@@ -27,30 +27,27 @@
       }
     ],
     "date": "2021-04-19",
-    "categories": [
-      "administrative",
-      "charts"
-    ],
+    "categories": [],
     "contents": "\nSydney, AustraliaSydney, AustraliaSan Diego, CaliforniaSan Diego, CaliforniaMineral Bluff, Georgia\n\n\n",
     "preview": {},
-    "last_modified": "2021-04-20T19:26:23-04:00",
+    "last_modified": "2021-04-28T10:57:25-04:00",
     "input_file": {}
   },
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "Welcome!",
+    "description": "Welcome to Isabelle's Blog",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Isabelle Bonke",
+        "url": "https://www.google.com"
       }
     ],
     "date": "2021-04-19",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-04-19T19:46:28-04:00",
+    "last_modified": "2021-04-28T11:14:24-04:00",
     "input_file": {}
   }
 ]
